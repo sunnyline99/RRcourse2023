@@ -44,7 +44,7 @@ plot(stats)
 ```
 
 
-## 5 Decrease
+## 6 Decrease
 
 ```{r}
 views1 <- 3.21
@@ -55,6 +55,7 @@ diff <- views1 - views3
 In a first season there were `r views1` M views on average, on season three `r views3` M views on average and difference between seasons `r diff` M views.
 
 
+## 7 
 
 # ASSIGNMENT
 
